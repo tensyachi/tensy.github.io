@@ -3,7 +3,7 @@
 <head>
 <title>Hello!</title>
 </head>
-<body>
-<h2 style="color : poder_blue;">Hello visitor!</h2>
+<body style="background : black;">
+<h2 style="color : powderblue;">Hello visitor!</h2>
 </body>
 </html>
